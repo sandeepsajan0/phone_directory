@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## phone_directory
+
+This project is implemented using React and it have features to Add/Delete a Subscriber.
 
 In the project directory, you can run:
 
