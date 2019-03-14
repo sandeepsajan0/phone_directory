@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sandeepsajan0/phone_directory/precache-manifest.8c9c46641fd5ef6dac88c2d26fcee072.js"
+  "/phone_directory/precache-manifest.817bc7b00b58c9a31032e2632cf09f1c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sandeepsajan0/phone_directory/index.html", {
+workbox.routing.registerNavigationRoute("/phone_directory/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
